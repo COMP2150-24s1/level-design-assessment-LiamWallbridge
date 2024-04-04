@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: Liam Wallbridge
+### Student number: 47799099
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -17,6 +17,8 @@ Example:
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+
+
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
@@ -59,18 +61,27 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.11. Weapon Pickup (Staff)
 
+
+
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
-### 3.1. Molecule Diagram
+### 3.1.1 Molecule Diagram – Section 1
+(DocImages/Molecule_Section1.png)
+### 3.1.2 Molecule Diagram – Section 2
+(DocImages/Molecule_Section2.png)
+### 3.1.3 Molecule Diagram – Section 3
+(DocImages/Molecule_Section3.png)
 
-### 3.2. Level Map – Section 1
+### 3.2.1. Level Map – Section 1
+(DocImages/Section1_1.png)
+(DocImages/Section1_2.png)
+### 3.2.2. Level Map – Section 2
+(DocImages/Section2_1.png)
+### 3.2.3. Level Map – Section 3
+(DocImages/Section3_1.png)
 
-### 3.3.	Level Map – Section 2
 
-### 3.4.	Level Map – Section 3
+
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
