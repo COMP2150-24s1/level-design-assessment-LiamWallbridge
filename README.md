@@ -40,26 +40,38 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
+A placed a small acid pool at the beginning for the player to jump over. A block is placed hanging over the acid implying that the player cannot walk through it, and instead is required to jump. Acid is used again underneath the moving platforms on the first section, so it is important that players understand that it is dangerous.
 
-### 2.2. Checkpoints
+### 2.2. Spikes
+I added spikes at the beginning so that players can quickly learn about them. The second spike encounter is intended to catch players who have not yet learnt the mechanics of spikes.
 
-### 2.3. Chompers
+### 2.3. Health Pickups
+I placed health pickups near spots of danger so that players can learn from mistakes. If they are to walk into acid or spikes, they will have a readily available health pickup, learning both the mechanics of health, as well as the dangers.
 
-### 2.4. Health Pickups
+### 2.4. Checkpoints
+I placed a checkpoint before the moving platform to teach players that falling into acid will teleport them back to the checkpoint.
 
-### 2.5. Keys
+### 2.5. Moving Platforms
+I used a simple horizontal moving platform at the beginning to show how the basic platform movement works.
 
-### 2.6. Moving Platforms
+### 2.6. Passthrough Platforms
+I used passthrough platforms as a progression block to ensure that players learn the functionality of crouching and passthrough. They cannot progress without obtaining the staff which is behind two passthrough platforms.
 
-### 2.7. Passthrough Platforms
+### 2.7. Weapon Pickup (Staff)
+I used the optional destructible columns to teach the player how to use the staff, as well as a chomper hidden behind the columns. Since the columns can be destroyed, players should assume that chompers can be too. This teaches players how to defeat enemies with a staff.
 
-### 2.8. Spikes
+### 2.8. Chompers
+In the staff encounter players discover that chompers are melee-focused enemies and can be defeated with weapons.
 
-### 2.9. Spitters
+### 2.9. Keys
+I placed a key between the destructible columns as a hint towards the level goal. The player learns that keys can be picked up, and that there are two other keys hidden somewhere in the level. Later in section three, I placed a key next to the KeyDoor to show the player that the door is the end goal.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.10. Spitters
+I placed three spitters on separate floating platforms with an increased detection range. They will teach the player that spitters are projectile-based enemies and can also be defeated with weapons.
 
-### 2.11. Weapon Pickup (Staff)
+### 2.11. Weapon Pickup (Gun)
+The gun is placed here to teach the player that they can crouch and shoot, shoot or even jump and shoot to hit enemies (the spitters).
+
 
 
 
