@@ -3,18 +3,6 @@
 ### Name: Liam Wallbridge
 ### Student number: 47799099
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -39,44 +27,43 @@ How does your level design facilitate autonomy and invite the player to explore?
 
 
 ## 2. Core Gameplay
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
 A placed a small acid pool at the beginning for the player to jump over. A block is placed hanging over the acid implying that the player cannot walk through it, and instead is required to jump. Acid is used again underneath the moving platforms on the first section, so it is important that players understand that it is dangerous.
 
+(DocImages/Acid&Respawn.png)
+
 ### 2.2. Spikes
 I added spikes at the beginning so that players can quickly learn about them. The second spike encounter is intended to catch players who have not yet learnt the mechanics of spikes.
-
 ### 2.3. Health Pickups
 I placed health pickups near spots of danger so that players can learn from mistakes. If they are to walk into acid or spikes, they will have a readily available health pickup, learning both the mechanics of health, as well as the dangers.
 
+(DocImages/Spikes&HealthPickups.png)
+
 ### 2.4. Checkpoints
 I placed a checkpoint before the moving platform to teach players that falling into acid will teleport them back to the checkpoint.
-
 ### 2.5. Moving Platforms
 I used a simple horizontal moving platform at the beginning to show how the basic platform movement works.
 
+(DocImages/Checkpoints&MovingPlatforms.png)
+
 ### 2.6. Passthrough Platforms
 I used passthrough platforms as a progression block to ensure that players learn the functionality of crouching and passthrough. They cannot progress without obtaining the staff which is behind two passthrough platforms.
-
 ### 2.7. Weapon Pickup (Staff)
 I used the optional destructible columns to teach the player how to use the staff, as well as a chomper hidden behind the columns. Since the columns can be destroyed, players should assume that chompers can be too. This teaches players how to defeat enemies with a staff.
-
 ### 2.8. Chompers
 In the staff encounter players discover that chompers are melee-focused enemies and can be defeated with weapons.
-
 ### 2.9. Keys
 I placed a key between the destructible columns as a hint towards the level goal. The player learns that keys can be picked up, and that there are two other keys hidden somewhere in the level. Later in section three, I placed a key next to the KeyDoor to show the player that the door is the end goal.
 
+(DocImages/PassthroughPlatforms&Staff&Keys&Chompers.png)
+
 ### 2.10. Spitters
 I placed three spitters on separate floating platforms with an increased detection range. They will teach the player that spitters are projectile-based enemies and can also be defeated with weapons.
-
 ### 2.11. Weapon Pickup (Gun)
 The gun is placed here to teach the player that they can crouch and shoot, shoot or even jump and shoot to hit enemies (the spitters).
+
+(DocImages/Gun&Spitter&Crouch.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
