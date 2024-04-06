@@ -7,20 +7,71 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+### Level Design Sections 1-3 For Reference:
+### Section1:
+(DocImages/ExtraInfo_Section1.png)
+### Section2:
+(DocImages/ExtraInfo_Section2.png)
+### Section3:
+(DocImages/ExtraInfo_Section3.png)
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+## 1. Player Experience
+
+I have designed each section of my level to facilitate the core player experience goals: Discovery, Drama, Challenge and Exploration.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+Upon completing my level, the player should have an understanding of the core gameplay mechanics. The three sections are used to help the player learn to different extents.
+
+I used section one of my level as a tutorial-like stage where the player learns the core game mechanics through basic and low-challenge interactions (such as spike jumps, acid pit jumps, horizontally moving platforms, etc).
+
+I used section two to combine two mechanics together (such as spikes + moving platforms). I did this to test the player on their knowledge/pattern recognition from section one, but to also develop their knowledge of the mechanics further.
+
+Section three acts as a final test for the player's knowledge. Unlike section two, I combined three mechanics per encounter. (e.g. Spitters + acid + moving platforms). 
+
+This method of introducing mechanics allows for a linear/gradual learning curve and therefore facilitates learning in a way that follows good design practice.
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
+To facilitate increasing and modulating intensity, I designed each of the sections to have a hook, rising action, a climax, and a resolution.
+
+I designed my level to increase in intensity for each section the player progresses through. At the end of each section I have created rooms without challenges to allow moments of relief. This also increases the tension for the next encounter and helps to create an effective hook for the dramatic arc.
+
+Section 1
+(DocImages/Section1_DramaticArc.png)
+
+Section 2
+(DocImages/Section2_DramaticArc.png)
+
+Section 3
+(DocImages/Section3_DramaticArc.png)
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+My level offers a physical challenge. The majority of my level requires physical skills such as reaction time for jumping over spikes, dodging spitters, etc. An example of an Intellectual challenge in my level would be the pushable box objects, specifically in section two where the player uses a box to cross some acid.
+
+To control the difficulty curve and maintain a consistent flow channel I designed level progression to simultaneously increase in difficulty, but also in the variety of mechanics. An example of this would be comparing section one to section two. 
+Section one features simple spike obstacles that the player needs to jump over, while section two involves moving platforms with spikes that you need to avoid. They use the same mechanic but in different ways, which makes the level more challenging and entertaining at the same time, and therefore, keeps the player in the flow channel. 
+
+Using the same mechanics in different ways also prevents the level design from jumping from an easy difficulty to an extremely challenging one (or vise versa), and can prevent frustration or boredom from occurring.
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+The design of section one facilitates autonomy and invites the player to explore. The following is an example:
+(DocImages/ExplorationEG1_S1.png)
+In this area players can either drop down to section two immediately or take the top path by defeating the spitters. This layout choice allows for a more memorable experience due to the freedom it gives the player.
+
+In contrast to section one, I designed section two to have a greater focus on exploration. There are three areas of section two that invite the player and allow for autonomous exploration.
+(DocImages/ExplorationEG1_S2.png)
+I designed the room in EG1 (found in the image) to be large enough that it hides both left and right sides. My intention was to invite the player to explore both the left and right sides. Upon exploring the left area, the player would discover that a key is required to progress, which would lead them to the right side of the room where they can break the destructible wall. 
+EG2 and EG3 are two other examples that I implemented to invite the player to explore further. I use health pickups here as motivators for exploration.
+
+Similarly, at the beginning of section three 
+(DocImages/ExplorationEG1_S3.png)
+I used platforms to hint towards a hidden area, which is intended to draw players in.
+
+The aesthetic and layout choices of my level design create distinct and memorable spaces as they facilitate autonomy and invite players to explore.
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -134,22 +185,4 @@ The checkpoint is to prevent players from redoing the same obstacle.
 
 ## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
-
-
+### Tool Used: None
